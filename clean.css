@@ -1,0 +1,58 @@
+
+
+body  {
+    background-image: url(9d5ecc0acf7e65f0b2591163b1b87534.jpg);
+        background-size: cover;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 45px; 
+    text-shadow:  1px  1px 1px black,
+                  1px -1px 1px black,
+                 -1px  1px 1px black,
+                 -1px -1px 1px black;
+
+}
+p {
+
+    color: white;
+    text-align: center;
+    
+    font-family: sans-serif;
+    font-size: 24px;
+    text-shadow:  1px  1px 1px black,
+                      1px -1px 1px black,
+                     -1px  1px 1px black,
+                     -1px -1px 1px black;
+    
+    
+    }
+    
+    
+    img
+    {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    
+    }
+    table {
+ 
+        font-family: sans-serif;
+        font-size: 31px;
+        color: white;
+        padding: 4px;
+        border-spacing: 4px;
+        text-shadow:  1px  1px 1px black,
+                          1px -1px 1px black,
+                         -1px  1px 1px black,
+                         -1px -1px 1px black;
+    }
+    
+
+div{
+    display: table-row;
+}
