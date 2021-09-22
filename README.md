@@ -1,1 +1,1 @@
-# Webseite_Gruppenarbeit
+# SIXIT-Lab
